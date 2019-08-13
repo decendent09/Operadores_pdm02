@@ -1,0 +1,21 @@
+Operadores de comparação
+
+Igual (==) - Verifica se o valor comparado é Igual
+Indêntico (===) - Valores comparados são iguais e do mesmo tipo
+
+'10' === 10
+string ===Indêntico
+
+Diferente (!=) - Verifica se os valores comparados são diferentes
+Não Idêntico (!==) - Verifica se o tipo e valores diferentes
+Menor (<) - verifica se o valor da esquerda é menor que da direita
+Menor (>) - verifica se o valor da esquerda é maior que da direita
+
+Menor (<=) - verifica se o valor da esquerda é menor ou igua que da direita
+Menor (>=) - verifica se o valor da esquerda é maior ou igua que da direita
+
+Operadores 
+
+E (&&) - Verdadeiro se todas as expressões forem verdadeiras
+OU(||) - Verdadeiro se uma das expressões ser verdadeiras
+Negação (!) - Inverte o resultado da expressão de comparação.
